@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AICo Blog</title>
+    <link>/blog</link>
+    <description>Insights on AI strategy, automation, and growth.</description>
+    <language>en-us</language>
+    <item>
+      <title>Shipping AI Fast, Safely</title>
+      <link>/blog/shipping-ai-fast</link>
+      <guid>/blog/shipping-ai-fast</guid>
+      <pubDate>Mon, 10 Jan 2025 00:00:00 GMT</pubDate>
+      <description>How to move quickly without compromising governance.</description>
+    </item>
+    <item>
+      <title>Agentic Ops: Automations That Learn</title>
+      <link>/blog/agentic-ops</link>
+      <guid>/blog/agentic-ops</guid>
+      <pubDate>Mon, 05 Jan 2025 00:00:00 GMT</pubDate>
+      <description>Designing feedback loops for continuous improvement.</description>
+    </item>
+  </channel>
+</rss>
